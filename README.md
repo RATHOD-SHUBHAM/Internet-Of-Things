@@ -15,6 +15,8 @@
 * Project provided me with a better understanding of how the IOT devices Work.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### implementing a DHCP client and TCP/UDP
 The goal of this project is build the essential components of a basic embedded Ethernet appliance. Building on a simple Ethernet framework,
 
 an DHCP client and a TCP application
